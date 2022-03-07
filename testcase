@@ -1,0 +1,23 @@
+1.	SIZE=5 
+Maze= 1 1 0 1 0
+      0 0 0 0 0 
+      1 0 1 0 1
+      0 0 1 0 0
+      0 1 0 0 1
+Solution= 0 0 0 0 1
+          0 1 1 1 1
+          0 1 0 0 0
+          1 1 0 0 0
+          1 0 0 0 0
+Cost of this path is: 9
+
+2. SIZE=4
+Maze= 0 1 0 0
+      1 0 0 1
+      0 0 1 0
+      0 1 1 1
+Solution= 0 0 1 1
+          0 1 1 0
+          1 1 0 0
+          1 0 0 0
+Cost of this path is: 7
